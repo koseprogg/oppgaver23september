@@ -46,4 +46,7 @@ For å installere det trenger du python lokalt. Når du har det kan du gå til [
 ![Dithering](dithering/david.png)
 ![Dithering](dithering/goodDavid.png)
 
+### [Generer en labyrint](mazegen/mazegen.md)
+
+![Labyrint](mazegen/maze.png)
 

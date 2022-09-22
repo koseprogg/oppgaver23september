@@ -3,7 +3,8 @@
 ## Kodeutfordringer
 Her er noen kodeutfordringer der dere skal lage en funksjon som gjør noe spesifikt.
 
-- [toSum](tosum.md)
+- [Tosum](tosum.md)
+- [Ordtimeglass](ordtimeglass.md)
 
 Om dere synes oppgavene er litt for enkle, kan dere prøve en av bonusutfordringene:
 

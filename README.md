@@ -41,4 +41,9 @@ Du kan tegne og behandle bilder med [Pillow-pakken til Python](https://pillow.re
 
 For å installere det trenger du python lokalt. Når du har det kan du gå til [installerinssiden til Pillow](https://pillow.readthedocs.io/en/stable/installation.html)
 
-- [Gjør et gråverdibilde til svart-hvitt med dithering](dithering/dithering.md)
+### [Gjør et gråverdibilde til svart-hvitt med dithering](dithering/dithering.md)
+
+![Dithering](dithering/david.png)
+![Dithering](dithering/goodDavid.png)
+
+

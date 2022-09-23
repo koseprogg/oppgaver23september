@@ -7,6 +7,8 @@ Her er noen kodeutfordringer der dere skal lage en funksjon som gjør noe spesif
 - [Ordtimeglass](ordtimeglass.md)
 - [Kaos i Manhattan](manhattan/manhattan.md)
 
+Vi rakk ikke lage så mange oppgaver, men dere kan bryne dere på [Advent of Code](https://adventofcode.com/) hvis dere vil. Jaja, vet det ikke er advent men det er de morsomste oppgavene.
+
 Om dere synes oppgavene er litt for enkle, kan dere prøve en av bonusutfordringene:
 
 ### Hold det på én linje

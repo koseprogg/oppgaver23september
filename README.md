@@ -5,6 +5,7 @@ Her er noen kodeutfordringer der dere skal lage en funksjon som gjør noe spesif
 
 - [Tosum](tosum.md)
 - [Ordtimeglass](ordtimeglass.md)
+- [Kaos i Manhattan](manhattan/manhattan.md)
 
 Om dere synes oppgavene er litt for enkle, kan dere prøve en av bonusutfordringene:
 

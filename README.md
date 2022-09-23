@@ -43,7 +43,7 @@ def tellTil(tall):
 
 ## Spill tre på rad!
 
-Lag et spill hvor man kan spille tre på rad! En beskrivelse av spillet kan du se [her](game-three-in-a-row.md)
+Lag et spill hvor man kan spille tre på rad! En beskrivelse av spillet kan du se [her](three-in-a-row/game-three-in-a-row.md)
 
 ## Tegn og behandle bilder
 

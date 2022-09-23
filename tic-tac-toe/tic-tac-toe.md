@@ -48,19 +48,23 @@ Er du skikkelig ivrig kan du bruke terminal-verktøy for å "endre" outputten i 
 
 ## Oppgave 2
 
+Lag en funksjon som validerer staten av brettet og velger om et nytt trekk er gyldig eller ikke.
+
+## Oppgave 3
+
 Gjør spillet spillbart for 1v1 spill. Bruk input() for å ta inn posisjon man ønsker å sette sitt symbol på. Merk: Husk å validere at inputten er et gyldig trekk.
 Bruk ([0, 2], [0, 2]) som representasjon av plassene man kan sette sitt symbol på, hvor (0, 0) representerer firkanten øverst til venstre, og (0, 2) representerer firkanten nederst til venstre.
 
-## Oppgave 3
+## Oppgave 4
 
 Lag en CPU som spiller spillet selv. Dette kan lett gjøres context-unaware, alstå at man tar inn spillets nåværende state og hvem som har neste trekk, for deretter å compute hva som er det mest optimale trekket.
 Tips: Hvilke algoritmer kan du bruke her? Burde du eventuelt bruke Tensorflow for å bruke en datamodell noen allerede har trent, eller er problemet soppas enkelt at du lett kan beregene det?
 
-## Oppgave 4
+## Oppgave 5
 
 Utvid spillets gang for å støtte 1v1 spill, 1vCPU og CPUvCPU.
 
-## Oppgave 5
+## Oppgave 6
 
 Optimaliser CPU-en til å gå enda raskere. Er det noen metoder du kan bruke som gjør at du kan skippe masse computations?
 

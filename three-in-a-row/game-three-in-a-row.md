@@ -32,7 +32,11 @@ X SIN TUR>
 
 Lag en python representasjon som printer griddet og kan sette X-er og O-er for å representerer spillere X og O.
 For hvert trekk kan programmet godt outputte et nytt grid uten å ta høyde for tidligere grids produsert.
-Tips: Tenk gjennom hvordan du burde representere et spill i datamodellen for å lettere støtte å gjøre oppgave 3.
+
+<details>
+<summary>Tips</summary>
+Tenk gjennom hvordan du burde representere et spill i datamodellen for å lettere støtte å gjøre oppgave 3.
+</details>
 
 ### Oppgave 1 optional
 
@@ -59,4 +63,8 @@ Utvid spillets gang for å støtte 1v1 spill, 1vCPU og CPUvCPU.
 ## Oppgave 5
 
 Optimaliser CPU-en til å gå enda raskere. Er det noen metoder du kan bruke som gjør at du kan skippe masse computations?
-Tips: A/B pruning.
+
+<details>
+<summary>Tips</summary>
+A/B pruning.
+</details>

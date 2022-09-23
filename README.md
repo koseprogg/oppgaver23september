@@ -1,6 +1,7 @@
 # Oppgaver til Koseprogg 23. september
 
 ## Kodeutfordringer
+
 Her er noen kodeutfordringer der dere skal lage en funksjon som gjør noe spesifikt.
 
 - [Tosum](tosum.md)
@@ -20,10 +21,13 @@ def tellTil(tall):
     for i in range(1, tall+1):
         print(i)
 ```
+
 kan skrives som
+
 ```python
 tellTil = lambda tall: [print(i) for i in range(1, tall+1)]
 ```
+
 yikes!
 
 ### Dropp while og for, embrace rekursjon
@@ -37,8 +41,12 @@ def tellTil(tall):
         print(tall)
 ```
 
+## Spill tre på rad!
+
+Lag et spill hvor man kan spille tre på rad! En beskrivelse av spillet kan du se [her](game-three-in-a-row.md)
 
 ## Tegn og behandle bilder
+
 Du kan tegne og behandle bilder med [Pillow-pakken til Python](https://pillow.readthedocs.io/en/stable/#)
 
 For å installere det trenger du python lokalt. Når du har det kan du gå til [installerinssiden til Pillow](https://pillow.readthedocs.io/en/stable/installation.html)
@@ -51,4 +59,3 @@ For å installere det trenger du python lokalt. Når du har det kan du gå til [
 ### [Generer en labyrint](mazegen/mazegen.md)
 
 ![Labyrint](mazegen/maze.png)
-
